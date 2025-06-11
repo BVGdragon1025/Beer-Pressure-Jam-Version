@@ -8,11 +8,7 @@ This Repository contains (mostly) original code made during event. Some changes 
 
 ## Made by
 
-Oliwia Bartkowska
-Paweł Kręczewski
-Patrycja Łokczewska
-Dominik Nawrot
-Kacper Dolot
+Oliwia Bartkowska, Paweł Kręczewski, Patrycja Łokczewska, Dominik Nawrot, Kacper Dolot
 
 ## Used assets
 
